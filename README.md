@@ -2,7 +2,7 @@
 Basic Linux Scripts
 
 # Timezone Configurator
-`code`
-chmod +x timezone.sh
-sudo .\timezone.sh
-`code`
+Give a execute permission and run
+`chmod +x timezone.sh`
+`sudo ./timezone.sh`
+
