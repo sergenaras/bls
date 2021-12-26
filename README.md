@@ -2,6 +2,9 @@
 
 ### Timezone Configurator 
 Give a execute permission and run
-`chmod +x timezone.sh`
-`sudo ./timezone.sh`
+
+```
+chmod +x timezone.sh
+sudo ./timezone.sh
+```
 
