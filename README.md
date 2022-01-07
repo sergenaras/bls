@@ -8,3 +8,11 @@ chmod +x timezone.sh
 sudo ./timezone.sh
 ```
 
+### User Memory Usage
+Which user is using how much memory 
+
+```
+chmod +x user_memusage.sh
+sudo ./timezone.sh
+```
+
