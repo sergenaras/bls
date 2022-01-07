@@ -1,4 +1,5 @@
 #!/bin/bash
+
 stats=""
 echo "%mem   user"
 echo "============"
