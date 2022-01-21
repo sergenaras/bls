@@ -16,3 +16,14 @@ chmod +x user_memusage.sh
 sudo ./timezone.sh
 ```
 
+### Password Hardening
+- Complex password
+- Non-repeating passwords 
+- Max-Min changeover times
+- Min password characters
+
+```
+chmod +x password_hardening.sh
+sudo ./password_hardening.sh
+```
+
