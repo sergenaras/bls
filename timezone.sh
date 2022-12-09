@@ -31,3 +31,5 @@ then
   chrony_config
   systemctl --now enable chrony > /dev/null  2>&1
 fi
+
+timedatectl
