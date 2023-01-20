@@ -27,3 +27,12 @@ chmod +x password_hardening.sh
 sudo ./password_hardening.sh
 ```
 
+### Network Interface Name Changer
+- Still developing
+- There was a error some server, name is changing but it's looking another name (for example eth0)
+
+```
+chmod +x interface-name-changer.sh
+sudo ./interface-name-changer.sh interface-exists interface-name-wants
+```
+
