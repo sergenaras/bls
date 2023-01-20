@@ -33,6 +33,6 @@ sudo ./password_hardening.sh
 
 ```
 chmod +x interface-name-changer.sh
-sudo ./interface-name-changer.sh interface-exists interface-name-wants
+sudo ./interface-name-changer.sh exists-name wants-name
 ```
 
